@@ -26,5 +26,8 @@ Q3. What is the combine effect of high AQI and high Population Density on higher
 
 Q4. Do people with less population density and less AQI have less covid infection ?
 
+Q5. Is there any interaction between the AQI and Population density ?
+
+
 
 
