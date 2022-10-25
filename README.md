@@ -22,8 +22,9 @@ Q1. Are the people living in county with higher population density affects the C
 
 Q2. Does the area with higher AQI affect the COVID cases in that region?
 
-Q3. Do people with less population density and less AQI have less covid infection ?
+Q3. Whta is the combine effect of high AQI and high Population Density on higher COVID cases?
 
-Q4. How is the low AQI and population density related?
+Q4. Do people with less population density and less AQI have less covid infection ?
+
 
 
